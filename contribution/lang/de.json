@@ -2110,7 +2110,7 @@
  	 	 	 	 	"eng": "How many would you like to put in the vault?"
  	 	 	 	},
  	 	 	 	"selectWithdrawItem": {
- 	 	 	 	 	"trans": "Wie viele möchten Sie sich von der Bank zurückziehen?",
+ 	 	 	 	 	"trans": "Wie viele möchten Sie von der Bank abheben?",
  	 	 	 	 	"eng": "How many would you like to withdraw from the bank?"
  	 	 	 	}
  	 	 	},
